@@ -18,8 +18,8 @@ header {
 
 header > h1 {
     padding-top: 50px;
-    font-variant: small-caps; /* Letras maisuculas, mas com tamanhos diferentes */
-    /* text-transform: uppercase; Para deixar todas as letra maiusculas */
+    font-variant: small-caps; /* Letras maiúsculas, mas com tamanhos diferentes */
+    /* text-transform: uppercase; Para deixar todas as letra maiúsculas */
 }
 
 header > p {
